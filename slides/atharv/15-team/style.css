@@ -1,0 +1,8 @@
+#t15 .copy{position:absolute;left:96px;top:150px;width:1720px}
+#t15 .h{font-size:96px}
+#t15 .grid{position:absolute;left:96px;right:96px;top:330px;display:grid;grid-template-columns:repeat(5,1fr);gap:20px}
+#t15 .m{border-top:4px solid var(--c);background:rgba(12,36,49,.7);padding:22px;display:flex;flex-direction:column;gap:10px;min-height:380px}
+#t15 .m .nm{font-family:var(--display);font-size:38px;font-weight:700;line-height:1}
+#t15 .m .mj{font-family:var(--mono);font-size:14px;letter-spacing:.12em;color:var(--c);text-transform:uppercase}
+#t15 .m p{font-size:20px;line-height:1.42;color:#c9dbe1;margin:0}
+#t15 .m .ow{margin-top:auto;font-size:17px;color:var(--mute);border-top:1px solid var(--line);padding-top:12px}

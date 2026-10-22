@@ -1,0 +1,1 @@
+[Griffin, 2:00] The nose comes from a kingfisher. Japan's engineers copied its beak for the 500 Series bullet train, and it ran about 10% faster on 15% less energy. The skin comes from a shark. Riblet film that copies shark scales already flies on 777s and saves about 1% of fuel, which sounds small until you multiply it by a fleet.

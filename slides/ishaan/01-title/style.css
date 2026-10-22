@@ -1,0 +1,10 @@
+#t1 .bg{position:absolute;right:0;top:0;width:1250px;height:1080px}
+#t1 .bg::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--sea) 0,rgba(6,22,31,.55) 30%,rgba(6,22,31,0) 60%)}
+#t1 .copy{position:absolute;left:96px;top:230px;width:900px;display:flex;flex-direction:column;gap:30px}
+#t1 .title{font-family:var(--display);font-weight:800;font-size:210px;letter-spacing:-.04em;line-height:.85;display:flex}
+#t1 .title span{display:inline-block;opacity:0}
+#t1.on .title span{animation:drop .8s cubic-bezier(.2,.8,.2,1) calc(var(--i)*60ms + .1s) both}
+#t1 .team{position:absolute;left:96px;bottom:100px;display:flex;gap:18px}
+#t1 .team span{font-size:20px;padding:10px 16px;border-radius:6px;background:rgba(12,36,49,.8);border-left:4px solid var(--c)}
+#t1 .team span small{display:block;font-family:var(--mono);font-size:13px;color:var(--mute);letter-spacing:.08em;margin-top:2px}
+#t1 svg.fly{position:absolute;inset:0;pointer-events:none}

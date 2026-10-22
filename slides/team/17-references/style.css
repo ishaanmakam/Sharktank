@@ -1,0 +1,4 @@
+#t17 .cols{position:absolute;left:96px;right:96px;top:220px;columns:2;column-gap:70px;font-size:16.5px;line-height:1.45;color:#b7cbd2}
+#t17 .cols p{margin:0 0 9px;break-inside:avoid}
+#t17 .cols b{color:var(--ice);font-weight:600}
+#t17 .h{position:absolute;left:96px;top:130px;font-size:64px}

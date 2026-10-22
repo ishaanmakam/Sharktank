@@ -1,0 +1,5 @@
+#t8 .pt{position:absolute;left:96px;top:150px;width:700px;height:780px}
+#t8 .copy{position:absolute;left:860px;top:150px;width:960px;display:flex;flex-direction:column;gap:24px}
+#t8 .h{font-size:92px}
+#t8 svg{width:960px;height:300px}
+#t8 svg text{font-family:var(--mono);font-size:16px;fill:var(--ice)}

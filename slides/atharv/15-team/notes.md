@@ -1,0 +1,1 @@
+[Atharv, 6:50] So that's why this takes five majors. Griffin owns the shape, Drew owns what it's made of, Ishaan owns how heat and parts move, Theo owns the power and the brain, and I own everything under the wheels.

@@ -1,0 +1,7 @@
+#t4 .copy{position:absolute;left:96px;top:150px;width:1720px;display:flex;flex-direction:column;gap:20px}
+#t4 .h{font-size:100px}
+#t4 .grid{position:absolute;left:96px;right:96px;top:420px;display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+#t4 .grid .card{display:flex;flex-direction:column;gap:10px;min-height:230px}
+#t4 .grid .card b{font-family:var(--display);font-size:36px;font-weight:700}
+#t4 .grid .card span{font-size:21px;line-height:1.4;color:#c9dbe1}
+#t4 .grid .card i{font-style:normal;font-size:40px;line-height:1}

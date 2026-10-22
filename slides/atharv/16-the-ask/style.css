@@ -1,0 +1,8 @@
+#t16 .copy{position:absolute;left:96px;top:150px;width:900px;display:flex;flex-direction:column;gap:26px}
+#t16 .big{font-family:var(--display);font-weight:800;font-size:220px;line-height:.85;letter-spacing:-.04em}
+#t16 .big em{font-style:normal;color:var(--belly)}
+#t16 svg{position:absolute;left:1040px;top:170px;width:780px;height:740px}
+#t16 svg text{font-family:var(--body);font-size:22px;fill:var(--ice);font-weight:600}
+#t16 .road{display:flex;flex-direction:column;gap:12px;margin-top:6px}
+#t16 .road div{display:grid;grid-template-columns:110px 1fr;gap:16px;font-size:23px;color:#c9dbe1;align-items:baseline}
+#t16 .road div b{font-family:var(--mono);color:var(--belly);font-weight:500;font-size:19px}

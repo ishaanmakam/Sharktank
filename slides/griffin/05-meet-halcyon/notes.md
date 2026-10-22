@@ -1,0 +1,1 @@
+[Griffin, 1:40] This is Halcyon H2-50. It's a 50-seat regional airliner that runs on liquid hydrogen through fuel cells, starting with routes like Seattle to Spokane. Every colored dot on the plane is one of our engineers, and you'll hear from each of them.

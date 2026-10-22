@@ -1,0 +1,1 @@
+[Ishaan, 0:40] The catch is that you can't just put batteries in an airliner (they're way too heavy). Liquid hydrogen carries almost three times the energy of jet fuel per kilogram and its only exhaust is water, but it needs four times the space and it has to stay at minus 253 degrees. So we didn't just swap the fuel, we redesigned the whole airplane around it.

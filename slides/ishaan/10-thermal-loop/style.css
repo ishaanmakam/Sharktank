@@ -1,0 +1,5 @@
+#t10 .copy{position:absolute;left:96px;top:150px;width:1720px;display:flex;flex-direction:column;gap:18px}
+#t10 .h{font-size:92px}
+#t10 svg{position:absolute;left:96px;top:400px;width:1728px;height:420px}
+#t10 svg text{font-family:var(--body);font-size:22px;fill:var(--ice);font-weight:600}
+#t10 svg .tt{font-family:var(--mono);font-size:18px;font-weight:500}

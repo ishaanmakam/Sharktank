@@ -1,0 +1,1 @@
+[Ishaan, 0:15] Most of us have looked out the window at Rainier on the way into Sea-Tac. That view comes with a cost. Aviation is about 2.5% of the world's CO₂, and once you count contrails it's closer to 4% of the warming so far, and it's still growing.

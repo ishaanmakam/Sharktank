@@ -1,0 +1,4 @@
+#t3 .copy{position:absolute;left:96px;top:150px;width:780px;display:flex;flex-direction:column;gap:28px}
+#t3 .h{font-size:108px}
+#t3 svg{position:absolute;left:940px;top:150px;width:900px;height:800px}
+#t3 svg text{font-family:var(--mono);fill:var(--mute)}

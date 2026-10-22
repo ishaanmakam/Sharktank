@@ -1,0 +1,1 @@
+[Drew, 3:10] All that hydrogen needs a tank, and that's my job. NASA and Boeing built an all-composite cryogenic tank 5.5 meters wide that came out 30% lighter and at least 25% cheaper. At minus 253, metals get brittle, hydrogen leaks through cracks you can't see, and layers shrink at different rates, so this is a materials problem before it's anything else.

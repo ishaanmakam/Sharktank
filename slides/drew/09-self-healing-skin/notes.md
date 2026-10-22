@@ -1,0 +1,1 @@
+[Drew, 3:40] The skin heals itself. Tiny channels inside the composite work like blood vessels, so when a crack opens them, two liquids mix and harden, healing almost completely, more than once. Inside the cabin we use flax-fiber panels, so even the parts you never see are grown instead of mined. We'd find more MSE students through SAMPE and Material Advantage.

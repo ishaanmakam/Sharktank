@@ -1,0 +1,6 @@
+/* 16 use of funds donut */
+(function(){const s=document.getElementById('donut');const F=[['Tank + thermal test rig',35,'#b89cff'],['Wind tunnel + demo plane',30,'#2fb4dc'],['Pilot airport hydrogen hub',20,'#6fd6a0'],['Powertrain + sensor skin',15,'#ffd447']];
+  const cx=240,cy=330,R=200,C=2*Math.PI*R;let acc=0;el('text',{x:cx,y:cy-6,'text-anchor':'middle','font-size':26,fill:'#8aa3ae'},s,'Use of funds');el('text',{x:cx,y:cy+42,'text-anchor':'middle','font-size':54,'font-family':'Bricolage Grotesque, sans-serif','font-weight':800},s,'$15M');
+  F.forEach((f,i)=>{const seg=el('circle',{cx,cy,r:R,fill:'none',stroke:f[2],'stroke-width':62,'stroke-dasharray':`0 ${C}`,transform:`rotate(${-90+acc*3.6} ${cx} ${cy})`,class:'seg','data-l':f[1]/100*C,'data-c':C},s);acc+=f[1];
+    el('rect',{x:490,y:120+i*90,width:20,height:20,rx:4,fill:f[2]},s);el('text',{x:524,y:137+i*90},s,f[1]+'%');el('text',{x:490,y:170+i*90,'font-size':17,fill:'#8aa3ae','font-weight':400},s,f[0])})})();
+let t16t=[];hooks.t16=()=>{t16t.forEach(clearTimeout);t16t=[];document.querySelectorAll('#donut .seg').forEach((c,i)=>{c.style.transition='none';c.setAttribute('stroke-dasharray',`0 ${c.dataset.c}`);void c.getBBox();t16t.push(setTimeout(()=>{c.style.transition='stroke-dasharray .9s ease';c.setAttribute('stroke-dasharray',`${c.dataset.l-4} ${c.dataset.c}`)},500+i*350))})};

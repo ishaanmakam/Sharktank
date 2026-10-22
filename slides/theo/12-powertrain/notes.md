@@ -1,0 +1,1 @@
+[Theo, 5:15] On the electrical side, fuel cells turn hydrogen into electricity with no flame. Then we use that minus 253 fuel one more time to chill the cables and motors until they superconduct, which Airbus expects to at least halve the powertrain's weight and losses. We'd recruit through IEEE and UW's Clean Energy Institute.

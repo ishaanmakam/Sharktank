@@ -1,0 +1,6 @@
+#t14 .pt{position:absolute;inset:0;border-radius:0}
+#t14 .pt::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--sea) 0,rgba(6,22,31,.88) 42%,rgba(6,22,31,.35) 75%,rgba(6,22,31,.55))}
+#t14 .copy{position:absolute;left:96px;top:150px;width:860px;display:flex;flex-direction:column;gap:24px}
+#t14 .h{font-size:96px}
+#t14 svg{position:absolute;left:1000px;top:200px;width:830px;height:640px}
+#t14 svg text{font-family:var(--body);font-size:20px;fill:var(--ice);font-weight:600}

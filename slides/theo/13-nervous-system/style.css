@@ -1,0 +1,4 @@
+#t13 .pt{position:absolute;left:96px;top:150px;width:760px;height:430px}
+#t13 canvas{position:absolute;left:96px;top:600px;width:760px;height:330px;border:1px solid var(--line);border-radius:4px}
+#t13 .copy{position:absolute;left:940px;top:150px;width:880px;display:flex;flex-direction:column;gap:24px}
+#t13 .h{font-size:88px}

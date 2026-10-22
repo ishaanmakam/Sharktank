@@ -1,0 +1,1 @@
+[Atharv, 1:10] Before we designed anything, we wrote down what a hydrogen plane can't get wrong: safety, cost, efficiency, climate (including contrails), noise for the neighborhoods next to regional airports, what happens to it at end of life, whether small cities can use it, and the infrastructure on the ground.

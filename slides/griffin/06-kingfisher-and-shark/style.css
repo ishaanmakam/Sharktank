@@ -1,0 +1,4 @@
+#t6 .pk{position:absolute;left:960px;top:150px;width:860px;height:430px}
+#t6 .ps{position:absolute;left:960px;top:600px;width:420px;height:330px}
+#t6 .sh{position:absolute;left:1400px;top:600px;width:420px;height:330px}
+#t6 canvas{position:absolute;left:96px;top:770px;width:780px;height:240px;border:1px solid var(--line);border-radius:4px}

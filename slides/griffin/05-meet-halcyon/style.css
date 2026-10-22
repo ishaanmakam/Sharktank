@@ -1,0 +1,12 @@
+#t5 .copy{position:absolute;left:96px;top:140px;width:640px;display:flex;flex-direction:column;gap:22px}
+#t5 .h{font-size:96px}
+#t5 svg.plane{position:absolute;left:700px;top:90px;width:1180px;height:940px}
+#t5 .spec{display:grid;grid-template-columns:1fr 1fr;gap:14px 26px;margin-top:6px}
+#t5 .spec div{border-top:1px solid var(--line);padding-top:10px}
+#t5 .spec b{display:block;font-family:var(--display);font-size:40px;font-weight:700}
+#t5 .spec span{font-size:18px;color:var(--mute)}
+#t5 .hs text{font-family:var(--body);font-size:21px;fill:var(--ice);font-weight:600}
+#t5 .hs{opacity:0}
+#t5 .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:8px}
+#t5 .legend span{font-size:17px;display:flex;align-items:center;gap:8px;color:#c9dbe1}
+#t5 .legend i{width:12px;height:12px;border-radius:50%;background:var(--c)}

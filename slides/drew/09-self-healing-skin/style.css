@@ -1,0 +1,6 @@
+#t9 .copy{position:absolute;left:96px;top:150px;width:1720px;display:flex;flex-direction:column;gap:18px}
+#t9 .h{font-size:92px}
+#t9 .row{position:absolute;left:96px;right:96px;top:400px;display:grid;grid-template-columns:1.25fr 1fr;gap:40px}
+#t9 svg{width:100%;height:440px;border:1px solid var(--line);border-radius:6px;background:rgba(12,36,49,.5)}
+#t9 .fx{display:flex;flex-direction:column;gap:20px}
+#t9 .fx .photo{position:relative;height:250px}

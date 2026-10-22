@@ -1,0 +1,1 @@
+[Theo, 5:45] The plane also has a nervous system. Fiber-optic sensors in the composite feel strain, cold spots and leaks everywhere at once. And since hydrogen's exhaust is water, our software reads humidity forecasts and nudges the route around air where contrails would form, so we don't trade CO₂ for clouds.

@@ -1,0 +1,8 @@
+#t7 .tri{position:absolute;left:96px;right:96px;top:410px;display:grid;grid-template-columns:repeat(3,1fr);gap:30px}
+#t7 .tri .photo{position:relative;height:300px}
+#t7 .tri .s{display:flex;flex-direction:column;gap:10px;margin-top:18px}
+#t7 .tri .s b{font-family:var(--display);font-size:38px;font-weight:700}
+#t7 .tri .s span{font-size:21px;line-height:1.4;color:#c9dbe1}
+#t7 .tri .s .n{font-family:var(--display);font-weight:800;font-size:60px;color:var(--c);line-height:1}
+#t7 .copy{position:absolute;left:96px;top:150px;width:1720px;display:flex;flex-direction:column;gap:18px}
+#t7 .h{font-size:92px}

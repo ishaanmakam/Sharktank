@@ -1,0 +1,5 @@
+#t2 .photo{inset:0;border-radius:0}
+#t2 .photo::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,22,31,.2),rgba(6,22,31,.75) 70%,var(--sea))}
+#t2 .copy{position:absolute;left:96px;right:96px;top:170px;display:flex;flex-direction:column;gap:26px}
+#t2 .h{font-size:120px;max-width:15ch}
+#t2 .stats{position:absolute;left:96px;bottom:110px;display:flex;gap:90px}

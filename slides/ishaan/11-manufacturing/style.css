@@ -1,0 +1,5 @@
+#t11 .pt{position:absolute;left:1060px;top:150px;width:764px;height:470px}
+#t11 .copy{position:absolute;left:96px;top:150px;width:900px;display:flex;flex-direction:column;gap:24px}
+#t11 .h{font-size:92px}
+#t11 .rv{position:absolute;left:1060px;top:650px;width:764px;height:270px}
+#t11 .rv text{font-family:var(--mono);font-size:16px;fill:var(--mute)}
