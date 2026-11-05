@@ -1,0 +1,1 @@
+[Ishaan · Mechanical] Before we designed anything, we listed what a hydrogen plane can't get wrong: safety, cost, efficiency, the climate (contrails included), noise near small airports, recycling it at the end of its life, making it work in small cities, and having fuel on the ground.

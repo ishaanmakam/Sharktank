@@ -1,1 +1,1 @@
-[Ishaan] Most of us have flown into Sea-Tac and seen Rainier out the window. That view comes with a cost. Aviation is about 2.5% of the world's CO2, and once you count contrails it's closer to 4% of the warming so far.
+[Ishaan · Mechanical] Most of us have flown into Sea-Tac and seen Rainier out the window. That view comes with a cost. Aviation is about 2.5% of the world's CO2, and once you count contrails it's closer to 4% of the warming so far.

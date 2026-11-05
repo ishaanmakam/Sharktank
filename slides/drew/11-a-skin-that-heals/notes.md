@@ -1,1 +1,0 @@
-[Drew] The skin can heal itself. Tiny channels inside the composite work like blood vessels, so when a crack opens them two liquids mix and harden, healing almost completely and more than once. Inside the cabin, we'd use panels made from flax fiber, which is a plant, so even the parts you don't see are greener.

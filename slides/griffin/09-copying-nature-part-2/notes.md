@@ -1,1 +1,0 @@
-[Griffin] The wings come from three more animals. Bumps like a humpback whale's fin let the wing tilt about 40% more before it stalls, which helps on short runways. Wingtips that flex like an albatross handle gusts better. And sawtooth edges like owl feathers make the propellers quieter. As the aerospace engineer, I'd test all of this in UW's Kirsten Wind Tunnel.

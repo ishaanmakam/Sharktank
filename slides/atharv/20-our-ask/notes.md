@@ -1,1 +1,0 @@
-[Atharv] We're asking for 15 million dollars for 10% of Halcyon. That gets the tank and cooling loop tested in year one, a small flying model by year two, a test hub at a Washington airport by year three, and the full plane flying Seattle to Spokane by year five.

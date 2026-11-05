@@ -1,1 +1,0 @@
-[Griffin] Here are the main parts. The nose comes from a kingfisher, the skin from a shark, the wings from a humpback whale and an albatross, and the propeller edges from an owl. The hydrogen tank sits in the back of the body, and the fuel cells are out on the wings next to the motors.

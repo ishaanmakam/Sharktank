@@ -1,1 +1,0 @@
-[Theo] The plane also has sensors built into the skin that can feel strain, cold spots and leaks anywhere. And since hydrogen's exhaust is water, our software checks humidity forecasts and routes around the air where contrails would form, so we don't trade CO2 for clouds.

@@ -14,7 +14,13 @@ body{font-family:var(--body)}
 /* titles */
 .t{font-family:var(--title);font-weight:400;font-size:96px;line-height:1.08;text-align:center;margin:0;position:absolute;left:120px;right:120px;top:70px}
 .t.left{text-align:left}
-.divider .t{top:50%;transform:translateY(-50%);font-size:120px}
+.divider .t{top:330px;font-size:118px}
+.divider .sub{position:absolute;left:0;right:0;top:530px;margin:0;text-align:center;font-family:var(--title);font-size:64px;color:var(--accent)}
+.divider .sub2{position:absolute;left:0;right:0;top:640px;margin:0;text-align:center;font-size:36px;color:var(--soft)}
+
+/* who is presenting (added to every slide from its data-who) */
+.who{position:absolute;right:56px;bottom:30px;font-size:24px;color:var(--soft);display:flex;align-items:center;gap:12px;letter-spacing:.02em}
+.who::before{content:"";width:34px;height:2px;background:var(--accent)}
 
 /* text */
 .txt{font-size:42px;line-height:1.45;color:var(--text)}
@@ -26,7 +32,7 @@ ul.b ul{margin:14px 0 0;padding-left:60px;font-size:36px}
 ul.b ul li{margin-bottom:10px}
 b,strong{font-weight:700}
 .small{font-size:30px;color:var(--soft)}
-.src{position:absolute;left:120px;bottom:34px;font-size:21px;color:var(--dim)}
+.src{position:absolute;left:120px;bottom:34px;max-width:1300px;font-size:21px;color:var(--dim)}
 
 /* pictures */
 .pic{position:absolute;overflow:hidden}

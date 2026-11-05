@@ -1,0 +1,1 @@
+[Ishaan · Mechanical] For building it, we'd weld the composite parts together instead of drilling thousands of holes. Europe already built a test fuselage this way, and it came out about a tonne lighter and up to 40% faster to make. The robots that lay the fiber are made in Mukilteo, and UW's Boeing Advanced Research Center is already working on this.

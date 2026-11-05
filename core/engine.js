@@ -2,6 +2,7 @@ const stage=document.getElementById('stage');
 function fit(){const s=Math.min(innerWidth/1920,innerHeight/1080);stage.style.transform=`translate(-50%,-50%) scale(${s})`}
 addEventListener('resize',fit);fit();
 const slides=[...document.querySelectorAll('.slide')];
+slides.forEach(s=>{if(s.dataset.who&&s.dataset.who!=='Everyone'){const w=document.createElement('div');w.className='who';w.textContent='Presenting: '+s.dataset.who;s.appendChild(w)}});
 let cur=-1,T0=performance.now();const hooks={},draws={};
 function go(i){
   if(i<0||i>=slides.length||i===cur)return;

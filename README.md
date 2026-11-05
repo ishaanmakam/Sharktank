@@ -6,14 +6,17 @@ Live site: https://sharktank-sepia.vercel.app
 
 ## Who owns what
 
-| Person | Major | Folder | Slides |
-|---|---|---|---|
-| Ishaan | Mechanical | `slides/ishaan/` | 01 title, 02 the problem, 03 why hydrogen, 12 keeping it cold, 13 how we'd build it |
-| Atharv | Civil | `slides/atharv/` | 04 what we thought about, 16 fueling at the airport, 17 team divider, 18 engineers, 19 finding engineers at UW, 20 our ask |
-| Griffin | Aerospace | `slides/griffin/` | 05 solution divider, 06 what is Halcyon, 07 parts of Halcyon, 08–09 copying nature |
-| Drew | Materials Science | `slides/drew/` | 10 the fuel tank, 11 a skin that heals itself |
-| Theo | Electrical & Computer | `slides/theo/` | 14 the powertrain, 15 sensors and contrails |
-| Everyone | | `slides/team/` | 21 thank you, 22 sources |
+The deck runs in presenter order. Every slide shows who's presenting in the bottom corner (it comes from the slide's `data-who`).
+
+| Order | Person | Role | Folder | Slides |
+|---|---|---|---|---|
+| 1 | Ishaan | Opening | `slides/ishaan/` | 01 title, 02 the problem, 03 why hydrogen, 04 what we thought about, 05 meet the team |
+| 2 | Griffin | Aerospace | `slides/griffin/` | 06 divider, 07 what is Halcyon, 08 parts of Halcyon, 09–10 copying nature |
+| 3 | Drew | Materials Science | `slides/drew/` | 11 divider, 12 the fuel tank, 13 greener materials |
+| 4 | Ishaan | Mechanical | `slides/ishaan/` | 14 divider, 15 keeping it cold, 16 how we'd build it |
+| 5 | Theo | Electrical & Computer | `slides/theo/` | 17 divider, 18 the powertrain, 19 sensors and contrails |
+| 6 | Atharv | Civil | `slides/atharv/` | 20 divider, 21 fueling at the airport, 22 finding engineers at UW, 23 our ask |
+| 7 | Everyone | | `slides/team/` | 24 thank you, 25 sources |
 
 ## What's in a slide folder
 

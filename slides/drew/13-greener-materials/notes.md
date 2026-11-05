@@ -1,0 +1,1 @@
+[Drew · Materials Science] We also wanted the plane to be greener after it's built. Thermoplastic composites can be melted down and reshaped, so scrap and old parts can be reused. Inside the cabin we'd use panels made from flax, which is a plant, instead of some of the fiberglass.

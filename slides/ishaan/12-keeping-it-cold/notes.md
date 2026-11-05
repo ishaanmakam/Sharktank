@@ -1,1 +1,0 @@
-[Ishaan] As the mechanical engineer, this is my favorite part. The hydrogen has to warm up by about 300 degrees before the fuel cells can use it, and the fuel cells make heat we have to get rid of anyway. So the cold fuel first chills the superconducting cables, then picks up heat from the fuel cells, and the water that comes out goes to the cabin.
