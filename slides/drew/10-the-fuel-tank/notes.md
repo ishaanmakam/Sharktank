@@ -1,0 +1,1 @@
+[Drew] All that hydrogen needs a tank, and that's where materials science comes in. NASA and Boeing built a composite tank 5.5 meters wide that came out 30% lighter and at least 25% cheaper. At minus 253, metals get brittle and hydrogen can leak through cracks you can't even see, so picking the right material is the whole game.

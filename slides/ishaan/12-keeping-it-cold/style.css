@@ -1,0 +1,5 @@
+#t12 .flow{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:20px}
+#t12 .flow div{width:600px;border:3px solid #111;border-radius:10px;padding:12px 20px;text-align:center}
+#t12 .flow b{display:block;font-size:32px}
+#t12 .flow span{display:block;font-size:24px;color:#333}
+#t12 .flow i{font-style:normal;font-size:36px;line-height:1;color:#2b7bb9}

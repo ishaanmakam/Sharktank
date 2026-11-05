@@ -1,0 +1,1 @@
+[Griffin] This is Halcyon. It's a 50-seat regional plane that runs on liquid hydrogen through fuel cells, and a lot of its shape is borrowed from animals. We'd start with short routes like Seattle to Spokane.

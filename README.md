@@ -8,21 +8,20 @@ Live site: https://sharktank-sepia.vercel.app
 
 | Person | Major | Folder | Slides |
 |---|---|---|---|
-| Ishaan | Mechanical | `slides/ishaan/` | 01 title, 02 hook, 03 challenge, 10 thermal loop, 11 manufacturing |
-| Griffin | Aerospace | `slides/griffin/` | 05 meet Halcyon, 06 kingfisher + shark, 07 whale, albatross, owl |
-| Drew | Materials Science | `slides/drew/` | 08 composite tank, 09 self-healing skin |
-| Theo | Electrical & Computer | `slides/theo/` | 12 powertrain, 13 nervous system |
-| Atharv | Civil | `slides/atharv/` | 04 considerations, 14 airport hub, 15 team, 16 the ask |
-| Everyone | | `slides/team/` | 17 references |
+| Ishaan | Mechanical | `slides/ishaan/` | 01 title, 02 the problem, 03 why hydrogen, 12 keeping it cold, 13 how we'd build it |
+| Atharv | Civil | `slides/atharv/` | 04 what we thought about, 16 fueling at the airport, 17 team divider, 18 engineers, 19 finding engineers at UW, 20 our ask |
+| Griffin | Aerospace | `slides/griffin/` | 05 solution divider, 06 what is Halcyon, 07 parts of Halcyon, 08–09 copying nature |
+| Drew | Materials Science | `slides/drew/` | 10 the fuel tank, 11 a skin that heals itself |
+| Theo | Electrical & Computer | `slides/theo/` | 14 the powertrain, 15 sensors and contrails |
+| Everyone | | `slides/team/` | 21 thank you, 22 sources |
 
 ## What's in a slide folder
 
 - `slide.html` is the slide itself (one `<section class="slide" id="tN">`). Change the words here.
-- `style.css` is the layout for that slide only. Rules start with the slide's id, like `#t8 .copy{...}`.
-- `script.js` is optional animation. Register `hooks.tN = () => {...}` to run when the slide opens, and `draws.tN = t => {...}` to run every frame.
+- `style.css` (optional) is styling for that slide only. Rules start with the slide's id, like `#t12 .flow{...}`. Most slides just use the shared classes in `core/base.css`.
 - `notes.md` is your speaker notes (press N while presenting).
 
-Shared pieces (fonts, colors, the transition, navigation) are in `core/`. Photos are in `assets/img/`. The slide order is `deck.json`, so to add, remove or reorder a slide, edit that list.
+Shared pieces (the space background, fonts, bullet and photo styles, navigation) are in `core/`. Photos are in `assets/img/`. The slide order is `deck.json`, so to add, remove or reorder a slide, edit that list.
 
 ## Making a change
 
